@@ -1,0 +1,3 @@
+@echo off
+:1
+Replace all of this and below lines to develop your app.
